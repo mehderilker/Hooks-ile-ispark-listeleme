@@ -29,7 +29,8 @@ const RouterComp = () => {
 
             tabBarOptions = {{
                 activeTintColor: 'orange',
-                inactiveTintColor : 'gray'
+                inactiveTintColor : 'gray',
+                keyboardHidesTabBar:true
             }}
             >
                 <Tab.Screen name="Listeleme" component={ListPark}/>
