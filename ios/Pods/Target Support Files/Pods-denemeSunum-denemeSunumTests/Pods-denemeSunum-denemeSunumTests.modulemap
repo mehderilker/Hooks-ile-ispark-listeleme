@@ -1,0 +1,6 @@
+module Pods_denemeSunum_denemeSunumTests {
+  umbrella header "Pods-denemeSunum-denemeSunumTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
